@@ -14,5 +14,5 @@
         android:layout_height="382dp"
         android:layout_gravity="center"
         android:layout_weight="1"
-        app:srcCompat="@mipmap/ic_marvel_logo_foreground" />
+        app:srcCompat="@drawable/logo" />
 </LinearLayout>
