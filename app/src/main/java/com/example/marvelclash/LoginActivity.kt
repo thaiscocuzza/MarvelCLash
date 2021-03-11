@@ -14,7 +14,6 @@ class LoginActivity: AppCompatActivity() {
         setContentView(R.layout.tela_login)
 
         initViews()
-
     }
 
     private fun initViews() {
